@@ -27,10 +27,10 @@ The goal was to move beyond simple data exploration and extract **5 key actionab
 
 ## 🛠️ Tech Stack
 
-- **Language**: Python
-- **Data Manipulation**: Pandas, NumPy
-- **Visualization**: Plotly Express, Plotly Graph Objects
-- **Dashboarding**: Dash (Flask-based web framework)
+- **Language**: `Python`
+- **Data Manipulation**: `Pandas`, `NumPy`
+- **Visualization**: `Plotly Express`, `Plotly Graph Objects`
+- **Dashboarding**: `Dash` (Flask-based web framework)
 
 
 ## 💡 Analytical Depth: Synthetic Data Awareness
@@ -41,8 +41,8 @@ During the Exploration phase (EDA), I identified the synthetic nature of the dat
 ## 📂 Project Resources
 
 - [View the Full Canva Presentation](https://github.com/LeJ-04/ecommerce-analytics-case-study/blob/main/assets/presentation.pdf) — *Summary of business recommendations*.
-- ('project_ds_invoices.ipynb') — *Complete data processing and visualization pipeline*.
-- ('invoices.csv') — *Dataset containing 10,002 transactions*.
+- `project_ds_invoices.ipynb` — *Complete data processing and visualization pipeline*.
+- `invoices.csv` — *Dataset containing 10,002 transactions*.
 
 
 ## 🔧 Installation & Usage
